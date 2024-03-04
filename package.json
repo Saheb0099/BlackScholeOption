@@ -1,0 +1,18 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "black-scholes": "^1.1.0",
+    "black-scholes-js": "^0.0.7",
+    "greeks": "^1.0.0",
+    "mathjs": "^12.4.0"
+  }
+}
